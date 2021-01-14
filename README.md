@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[[Sam's github stats] (https://github-readme-stats.vercel.app/api?username=s-munro&show_icons=true&theme=tokyonight)
+[[Sam's github stats]:
+https://github-readme-stats.vercel.app/api?username=s-munro&show_icons=true&theme=tokyonight
 
 <!--
 **s-munro/s-munro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
