@@ -2,7 +2,7 @@
 
 <details>
   <summary>:zap: Github Stats:</summary>
-  <img align='left' alt="s-munro's github stats" src="github-readme-stats-ten-lilac.vercel.app/api?username=s-munro&show_icons=true&theme=tokyonight" /> 
+  <img align='left' alt="s-munro's github stats" src="github-readme-stats-fzm09j9yi.vercel.app/api?username=s-munro&show_icons=true&theme=tokyonight" /> 
   
 </details>
 
