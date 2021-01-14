@@ -1,5 +1,8 @@
 ### Sam Munro
-<hr />
+<ul>
+  <li>Currently based out of Bloomington, IN</li>
+  <li>Currently working on: https://github.com/s-munro/easyscore </li>
+</ul>
 
   <summary>:zap: Github Stats:</summary>
   <br />
