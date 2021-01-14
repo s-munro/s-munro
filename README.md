@@ -1,4 +1,4 @@
-### Hi there 👋
+### Sam Munro
 
 <details>
   <summary>:zap: Github Stats:</summary>
