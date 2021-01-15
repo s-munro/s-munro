@@ -1,8 +1,8 @@
 ## Sam Munro
 <ul>
   <li>:house_with_garden: Currently based out of Bloomington, IN</li>
-  <li>:memo: Currently working on: https://github.com/s-munro/easyscore </li>
   <li>:classical_building: Indiana University alumnus</li>
+  <li>:memo: Currently working on: https://github.com/s-munro/easyscore </li>
 </ul>
 <hr />
 
