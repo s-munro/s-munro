@@ -10,6 +10,8 @@
 Taken from the readME: 
 The Easy Score
 "A student-oriented web application intended as a course-planning resource. Offers students the ability to quickly and easily compare courses, professors, and grade distributions, as well as to search for which courses satisfy their target requirements (credit hours, time of day, credit types, etc). The site is being redesigned as a single page react app with this repository as our workpoint."
+<br /> 
+The application is currently hosted on heroku as a demo, and will be up shortly as we finish tweaking the styling/responsiveness.  Feel free to check it out here: https://the-easy-score.herokuapp.com/
 <hr />
 
   <summary>:zap: Github Stats:</summary>
