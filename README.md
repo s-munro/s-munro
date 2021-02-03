@@ -2,16 +2,20 @@
 <ul>
   <li>:house_with_garden: Currently based out of Bloomington, IN</li>
   <li>:classical_building: Indiana University alumnus</li>
-  <li>:memo: Currently working on: https://github.com/s-munro/easyscore </li>
+  <li>:memo: Currently working on: https://github.com/s-munro/easyscore, https://github.com/Build-Week-TT24FT-African-Marketplace/back-end </li>
 </ul>
 <hr />
 
 ### About my current project:
 Taken from the readME: 
-The Easy Score
+**The Easy Score**:
 "A student-oriented web application intended as a course-planning resource. Offers students the ability to quickly and easily compare courses, professors, and grade distributions, as well as to search for which courses satisfy their target requirements (credit hours, time of day, credit types, etc). The site is being redesigned as a single page react app with this repository as our workpoint."
 <br /> 
 The application is currently hosted on heroku as a demo, and will be up shortly as we finish tweaking the styling/responsiveness.  Feel free to check it out here: https://the-easy-score.herokuapp.com/
+
+<br />
+**African-Marketplace**: 
+MVP: Build an Africa-based business platform to enable business owners to create listings for items they have for sale. 
 <hr />
 
   <summary>:zap: Github Stats:</summary>
