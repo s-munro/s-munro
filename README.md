@@ -16,7 +16,7 @@ The application is currently hosted on heroku as a demo, and will be up shortly 
 
 <br />
 
-#### African Marketplace:
+##### African Marketplace:
 MVP: Build an Africa-based business platform to enable business owners to create listings for items they have for sale. 
 <hr />
 
