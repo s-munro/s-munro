@@ -7,14 +7,22 @@
 <hr />
 
 ### About my current projects:
-<br />
 #### The Easy Score:
-
 <br />
 "A student-oriented web application intended as a course-planning resource. Offers students the ability to quickly and easily compare courses, professors, and grade distributions, as well as to search for which courses satisfy their target requirements (credit hours, time of day, credit types, etc). The site is being redesigned as a single page react app with this repository as our workpoint."
 <br /> 
 The application is currently hosted on heroku as a demo, and will be up shortly as we finish tweaking the styling/responsiveness.  Feel free to check it out here: https://the-easy-score.herokuapp.com/
-
+<br />
+#### African Marketplace ####
+<br />
+A mock-platform for African businesses owners to log in and create and manage listings for their items.  Shoppers can then log in to view listings, ideally filtering them by location.
+<br />
+**MVP:**
+<ul>
+  <li>A small business `owner` can login and see relevant prices in various categories to help them set their own prices.</li>
+  <li>They can also make listing for `items` they want to sell, which will show up to all `users`.</li>
+  <li>They add a new `item` by selecting their market `location` and typing in their item's `name`, `description`, and `price`.</li>
+</ul>
 <br />
 
   <summary>:zap: Github Stats:</summary>
