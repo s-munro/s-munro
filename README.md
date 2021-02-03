@@ -12,6 +12,7 @@
 <br /> 
 The application is currently hosted on heroku as a demo, and will be up shortly as we finish tweaking the styling/responsiveness.  Feel free to check it out here: https://the-easy-score.herokuapp.com/
   </p>
+  
 ### African Marketplace ###
 <p>A mock-platform for African businesses owners to log in and create and manage listings for their items.  Shoppers can then log in to view listings, ideally filtering them by location.</p>
 **MVP:**
