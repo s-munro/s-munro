@@ -26,7 +26,7 @@
 
 ### Portfolio ###
 #### React.js, Node.js, Firebase
-<p>Portfolio work-in-progress</p>
+<p>Portfolio work-in-progress, utilizing bootstrap, material-ui, leaflet, and node.js with nodemailer in the corresponding back-end repository</p>
 
   <summary>:zap: Github Stats:</summary>
   <br />
