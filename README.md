@@ -2,7 +2,7 @@
 <ul>
   <li>:house_with_garden: Currently based out of Bloomington, IN</li>
   <li>:classical_building: Indiana University alumnus</li>
-  <li>:memo: Currently working on: https://github.com/s-munro/easyscore, https://github.com/Build-Week-TT24FT-African-Marketplace/back-end </li>
+  <li>:memo: Currently working on: https://github.com/s-munro/easyscore, https://github.com/Build-Week-TT24FT-African-Marketplace/back-end, https://github.com/s-munro/portfolio-v1 </li>
 </ul>
 <hr />
 
@@ -23,7 +23,10 @@
   <li>They can also make listing for `items` they want to sell, which will show up to all `users`.</li>
   <li>They add a new `item` by selecting their market `location` and typing in their item's `name`, `description`, and `price`.</li>
 </ul>
-<br />
+
+### Portfolio ###
+#### React.js, Node.js, Firebase
+<p>Portfolio work-in-progress</p>
 
   <summary>:zap: Github Stats:</summary>
   <br />
