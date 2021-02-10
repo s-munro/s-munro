@@ -15,8 +15,8 @@
 </ul>
 
 ### Portfolio ###
-#### React.js, Node.js, Firebase
-<p>Portfolio work-in-progress, utilizing bootstrap, material-ui, leaflet, and node.js with nodemailer in the corresponding back-end repository</p>
+#### React.js, Material-UI, Bootstrap, Firebase
+<p>Portfolio work-in-progress, utilizing bootstrap, material-ui</p>
 
   <summary>:zap: Github Stats:</summary>
   <br />
