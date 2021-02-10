@@ -16,7 +16,7 @@
 
 ### Portfolio ###
 #### React.js, Material-UI, Bootstrap, Firebase
-<p>Portfolio work-in-progress, utilizing bootstrap, material-ui</p>
+<p>Portfolio work-in-progress, utilizing bootstrap, CSS, and material-ui for styling.  Site includes sections for projects and case studies, and offers links to my resume, github, linkedin, and email.</p>
 
   <summary>:zap: Github Stats:</summary>
   <br />
