@@ -7,6 +7,12 @@
 <hr />
 
 ## About my current projects:
+### Github Buddy: ###
+#### React, TypeScript, TailwindCSS, Node.js, Express, PostGreSQL
+<ul>
+  <li>Github buddy's goal is to be the ultimate bug-tracker and developer workflow companion.  This application serves two purposes: first, to be a complex project where I can learn and implement TypeScript and TailwindCSS while refining my React, Node.js, and PostgreSQL skills, and second, to simplify developers' lives.  I would like to create a useful application with a beautiful interface.  I am planning to get this project to the level where at the very least I can utilize it when working on my own projects, but ideally where other developers would enjoy using it as well.  By approaching my application both as creator and user I will be able to effectively decide how improvements could be made and which features should be incorporated.  It's an exciting project.</li>
+</ul>
+
 ### The Easy Score: ###
 #### React, SASS, Node.js, Express, Material-UI, Bootstrap, Redux, Nodemailer,
 <ul>
