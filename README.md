@@ -2,12 +2,12 @@
 <ul>
   <li>:house_with_garden: Currently based out of Bloomington, IN</li>
   <li>:classical_building: Indiana University alumnus</li>
-  <li>:memo: Currently working on: https://github.com/s-munro/github-buddy </li>
+  <li>:memo: Currently working on: Vibey (Private Repo) & Story Squad (https://github.com/Lambda-School-Labs/story-squad-fe-a) </li>
 </ul>
 <hr />
 
 ## About my current project:
-### Github Buddy: ###
+### Github Buddy (paused): ###
 #### React, TypeScript, TailwindCSS, Node.js, Express, PostGreSQL
 <ul>
   <li>Github buddy will function as a bug-tracker and developer workflow companion.  This application serves two purposes: first, to be a complex project where I can learn and implement TypeScript and TailwindCSS while refining my React, Node.js, and PostgreSQL skills, and second, to simplify the experience of managing your repos and their corresponding teams.</li>
