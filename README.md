@@ -14,11 +14,17 @@
   <li>Vibey is a social-media-like platform for hosting or discovering music in group settings, where users can join up and listen to music together.</li>
 </ul>
 
+### Story Squad (current): ###
+#### React, JavaScript, Node.js, Express, PostgreSQL
+<ul>
+  <li>Story Squad turns “reluctant readers” into authors and illustrators through a collaborative world-building game.</li>
+</ul>
+
 ## Other recent projects:
 ### Github Buddy (paused): ###
 #### React, TypeScript, TailwindCSS, Node.js, Express, PostGreSQL
 <ul>
-  <li>Github buddy will function as a bug-tracker and developer workflow companion.  This application serves two purposes: first, to be a complex project where I can learn and implement TypeScript and TailwindCSS while refining my React, Node.js, and PostgreSQL skills, and second, to simplify the experience of managing your repos and their corresponding teams.</li>
+  <li>Github buddy will function as a bug-tracker and developer workflow companion, working to simplify the experience of managing your repos and their corresponding teams.</li>
 </ul>
 
 ### The Easy Score: ###
