@@ -34,10 +34,6 @@
   <li>The application is currently hosted on heroku as a demo, and will be up shortly as we finish tweaking the styling/responsiveness.  Feel free to check it out here: https://the-easy-score.herokuapp.com/</li>
 </ul>
 
-### Portfolio ###
-#### React.js, Material-UI, Bootstrap, Firebase
-<p>Portfolio work-in-progress, utilizing bootstrap, CSS, and material-ui for styling.  Site includes sections for projects and case studies, and offers links to my resume, github, linkedin, and email.</p>
-
   <summary>:zap: Github Stats:</summary>
   <br />
   <div>
