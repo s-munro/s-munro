@@ -6,14 +6,21 @@
 </ul>
 <hr />
 
-## About my current project:
+## About my current projects:
+
+### Vibey (current): ###
+#### React, TypeScript, SASS, Node.js, Express, MongoDB, Redis, Websockets
+<ul>
+  <li>Vibey is a platform for hosting or discovering music in group settings, where users can join up and listen to each other's playlists together.</li>
+</ul>
+
+## Other recent projects:
 ### Github Buddy (paused): ###
 #### React, TypeScript, TailwindCSS, Node.js, Express, PostGreSQL
 <ul>
   <li>Github buddy will function as a bug-tracker and developer workflow companion.  This application serves two purposes: first, to be a complex project where I can learn and implement TypeScript and TailwindCSS while refining my React, Node.js, and PostgreSQL skills, and second, to simplify the experience of managing your repos and their corresponding teams.</li>
 </ul>
 
-## Other recent projects:
 ### The Easy Score: ###
 #### React, SASS, Node.js, Express, Material-UI, Bootstrap, Redux, Nodemailer,
 <ul>
