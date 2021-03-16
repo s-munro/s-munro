@@ -9,7 +9,7 @@
 ## About my current projects:
 
 ### Vibey (current): ###
-#### React, TypeScript, SASS, Node.js, Express, MongoDB, Redis, Websockets
+#### React, TypeScript, SASS, Node.js, Express, MongoDB, Redis, Websockets (Socket.io)
 <ul>
   <li>Vibey is a social-media-like platform for hosting or discovering music in group settings, where users can join up and listen to music together.</li>
 </ul>
