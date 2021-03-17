@@ -21,17 +21,18 @@
 </ul>
 
 ## Other recent projects:
-### Github Buddy (paused): ###
-#### React, TypeScript, TailwindCSS, Node.js, Express, PostGreSQL
-<ul>
-  <li>Github buddy will function as a bug-tracker and developer workflow companion, working to simplify the experience of managing your repos and their corresponding teams.</li>
-</ul>
 
 ### The Easy Score: ###
 #### React, SASS, Node.js, Express, Material-UI, Bootstrap, Redux, Nodemailer,
 <ul>
   <li>"A student-oriented web application intended as a course-planning resource. Offers students the ability to quickly and easily compare courses, professors, and grade distributions, as well as to search for which courses satisfy their target requirements (credit hours, time of day, credit types, etc). The site is being redesigned as a single page react app with this repository as our workpoint."</li>
   <li>The application is currently hosted on heroku as a demo, and will be up shortly as we finish tweaking the styling/responsiveness.  Feel free to check it out here: https://the-easy-score.herokuapp.com/</li>
+</ul>
+
+### Github Buddy (paused): ###
+#### React, TypeScript, TailwindCSS, Node.js, Express, PostGreSQL
+<ul>
+  <li>Github buddy will function as a bug-tracker and developer workflow companion, working to simplify the experience of managing your repos and their corresponding teams.</li>
 </ul>
 
   <summary>:zap: Github Stats:</summary>
