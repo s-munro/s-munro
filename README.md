@@ -2,7 +2,7 @@
 <ul>
   <li>:house_with_garden: Currently based out of Bloomington, IN</li>
   <li>:classical_building: Indiana University alumnus</li>
-  <li>:memo: Currently working on: Vibey (Private Repo) & Story Squad (https://github.com/Lambda-School-Labs/story-squad-fe-a)(https://github.com/Lambda-School-Labs/story-squad-be-a) </li>
+  <li>:memo: Currently working on: Vibey (Private Repo) & Story Squad ( https://github.com/Lambda-School-Labs/story-squad-fe-a ),( https://github.com/Lambda-School-Labs/story-squad-be-a ) </li>
 </ul>
 <hr />
 
