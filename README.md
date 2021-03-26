@@ -29,12 +29,6 @@
   <li>The application is currently hosted on heroku as a demo, and will be up shortly as we finish tweaking the styling/responsiveness.  Feel free to check it out here: https://the-easy-score.herokuapp.com/</li>
 </ul>
 
-### Github Buddy (paused): ###
-#### React, TypeScript, TailwindCSS, Node.js, Express, PostGreSQL
-<ul>
-  <li>Github buddy will function as a bug-tracker and developer workflow companion, working to simplify the experience of managing your repos and their corresponding teams.</li>
-</ul>
-
   <summary>:zap: Github Stats:</summary>
   <br />
   <div>
