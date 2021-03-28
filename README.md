@@ -1,5 +1,5 @@
 # Sam Munro
-## Hello! 👋 Welcome to my Github!
+## 👋 Welcome to my Github!
 <p>
   My name is Sam Munro, I'm an Indiana University alumnus, a current student at Lambda School, and a lover of all things software engineering, web applications, and React.js.
 </p>
