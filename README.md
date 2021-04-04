@@ -14,7 +14,7 @@
   </div>
   <br />
   
-
+<div>
 
 ## About my current projects:
 
@@ -53,4 +53,5 @@
 
 </div>
 <br />
+</div>
 
