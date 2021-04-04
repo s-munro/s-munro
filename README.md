@@ -9,6 +9,12 @@
   <li>:memo: Currently working on: Vibey (Private Repo) & Story Squad ( https://github.com/Lambda-School-Labs/story-squad-fe-a ),( https://github.com/Lambda-School-Labs/story-squad-be-a ) </li>
 </ul>
 
+  <div>
+  <img align='left' alt="s-munro's github stats" src="https://github-readme-stats.vercel.app/api?username=s-munro&hide=stars&show_icons=true&theme=react" /> 
+  </div>
+  <br />
+  
+
 
 ## About my current projects:
 
@@ -47,9 +53,4 @@
 
 </div>
 <br />
-  
-  <div>
-  <img align='left' alt="s-munro's github stats" src="https://github-readme-stats.vercel.app/api?username=s-munro&hide=stars&show_icons=true&theme=react" /> 
-  </div>
-  <br />
-  
+
