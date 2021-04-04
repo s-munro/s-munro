@@ -6,10 +6,10 @@
 <ul>
   <li>:house_with_garden: Currently based out of Bloomington, IN</li>
   <li>:classical_building: Indiana University alumnus</li>
-  <li>:memo: Currently working on: Vibey (Private Repo) & Story Squad ( https://github.com/Lambda-School-Labs/story-squad-fe-a ),( https://github.com/Lambda-School-Labs/story-squad-be-a ) </li>
+  <li>:memo: Currently working on: Vibey (Private Repo)</li>
 </ul>
 
-## About my current projects:
+## About my current project:
 
 ### Vibey (current): ###
 #### React, TypeScript, SASS, Node.js, Express, MongoDB, Redis, Websockets (Socket.io)
@@ -17,13 +17,15 @@
   <li>Vibey is a social-media-like platform for hosting or discovering music in group settings, where users can join up and listen to music together.</li>
 </ul>
 
+## Other recent projects:
+
 ### Story Squad (current): ###
 #### React, JavaScript, Node.js, Express, PostgreSQL
 <ul>
   <li>Story Squad turns “reluctant readers” into authors and illustrators through a collaborative world-building game.</li>
+  <li>Frontend Repo: https://github.com/Lambda-School-Labs/story-squad-fe-a</li>
+  <li>Backend Repo: https://github.com/Lambda-School-Labs/story-squad-be-a</li>
 </ul>
-
-## Other recent projects:
 
 ### The Easy Score: ###
 #### React, SASS, Node.js, Express, Material-UI, Bootstrap, Redux, Nodemailer,
