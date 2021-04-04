@@ -52,5 +52,4 @@
   <img align='left' alt="s-munro's github stats" src="https://github-readme-stats.vercel.app/api?username=s-munro&hide=stars&show_icons=true&theme=react" /> 
   </div>
   <br />
-<hr />
   
