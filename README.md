@@ -19,7 +19,7 @@
 
 ## Other recent projects:
 
-### Story Squad (current): ###
+### Story Squad: ###
 #### React, JavaScript, Node.js, Express, PostgreSQL
 <ul>
   <li>Story Squad turns “reluctant readers” into authors and illustrators through a collaborative world-building game.</li>
