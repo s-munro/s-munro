@@ -1,7 +1,7 @@
 # Sam Munro
 ## 👋 Welcome to my Github!
 <p>
-  My name is Sam Munro, I'm an Indiana University alumnus, a current student at Lambda School, and a lover of all things software engineering, web applications, and React.js.
+  My name is Sam Munro, I'm an Indiana University alumnus, a current Technical Project Lead at Lambda School, and a lover of all things software engineering.  I love coding even in my free time and generally have a few side projects I'm working on.  Feel free to keep reading for more information on my current projects!
 </p>
 <ul>
   <li>:house_with_garden: Currently based out of Bloomington, IN</li>
