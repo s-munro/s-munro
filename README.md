@@ -1,11 +1,11 @@
 # Sam Munro
 ## 👋 Welcome to my Github!
 <p>
-  My name is Sam Munro, I'm an Indiana University alumnus, a current Technical Project Lead at Lambda School, and a lover of all things software engineering.  I love coding even in my free time and generally have a few side projects I'm working on.  Feel free to keep reading for more information on my current projects!
+  My name is Sam Munro, I'm an Indiana University alumnus, a current Technical Project Lead at Lambda School, and a lover of all things software engineering :computer:.  I love coding even in my free time and generally have a few side projects I'm working on.  Feel free to keep reading for more information on my current projects!
 </p>
 <ul>
   <li>:house_with_garden: Currently based out of Bloomington, IN</li>
-  <li>:classical_building: Indiana University alumnus</li>
+  <li>:classical_building: Indiana University & Lambda School alumnus</li>
   <li>:memo: Currently working on: Vibey (Private Repo)</li>
 </ul>
 
