@@ -1,7 +1,7 @@
 # Sam Munro
 ## 👋 Welcome to my Github!
 <p>
-  My name is Sam Munro, I'm an Indiana University alumnus, a current Technical Project Lead at Lambda School, and a lover of all things software engineering :computer:.  I love coding even in my free time and generally have a few side projects I'm working on.  Feel free to keep reading for more information on my current projects!
+  My name is Sam Munro :grin:, I'm an Indiana University alumnus, a current Technical Project Lead at Lambda School, and a lover of all things software engineering :computer:  I love coding even in my free time and generally have a few side projects I'm working on.  Feel free to keep reading for more information on my current projects! 
 </p>
 <ul>
   <li>:house_with_garden: Currently based out of Bloomington, IN</li>
@@ -11,7 +11,7 @@
 
 ## About my current project:
 
-### Vibey (current): ###
+### :musical_note: Vibey (current): :musical_note: ###
 #### React, TypeScript, SASS, Node.js, Express, MongoDB, Redis, Websockets (Socket.io)
 <ul>
   <li>Vibey is a social-media-like platform for hosting or discovering music in group settings, where users can join up and listen to music together.</li>
