@@ -19,7 +19,7 @@
 
 ## Other recent projects:
 
-### Story Squad: ###
+### :book: Story Squad: :book: ###
 #### React, JavaScript, Node.js, Express, PostgreSQL
 <ul>
   <li>Story Squad turns “reluctant readers” into authors and illustrators through a collaborative world-building game.</li>
@@ -27,7 +27,7 @@
   <li>Backend Repo: https://github.com/Lambda-School-Labs/story-squad-be-a</li>
 </ul>
 
-### The Easy Score: ###
+### :pencil: The Easy Score: :pencil: ###
 #### React, SASS, Node.js, Express, Material-UI, Bootstrap, Redux, Nodemailer,
 <ul>
   <li>"A student-oriented web application intended as a course-planning resource. Offers students the ability to quickly and easily compare courses, professors, and grade distributions, as well as to search for which courses satisfy their target requirements (credit hours, time of day, credit types, etc). The site is being redesigned as a single page react app with this repository as our workpoint."</li>
