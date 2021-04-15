@@ -9,15 +9,13 @@
   <li>:memo: Currently working on: Vibey (Private Repo)</li>
 </ul>
 
-## About my current project:
+## About my current projects:
 
 ### :musical_note: Vibey (current): :musical_note: ###
 #### React, TypeScript, SASS, Node.js, Express, MongoDB, Redis, Websockets (Socket.io)
 <ul>
   <li>Vibey is a social-media-like platform for hosting or discovering music in group settings, where users can join up and listen to music together.</li>
 </ul>
-
-## Other recent projects:
 
 ### :book: Story Squad: :book: ###
 #### React, JavaScript, Node.js, Express, PostgreSQL
@@ -26,6 +24,8 @@
   <li>Frontend Repo: https://github.com/Lambda-School-Labs/story-squad-fe-a</li>
   <li>Backend Repo: https://github.com/Lambda-School-Labs/story-squad-be-a</li>
 </ul>
+
+## Other recent projects:
 
 ### :pencil: The Easy Score: :pencil: ###
 #### React, SASS, Node.js, Express, Material-UI, Bootstrap, Redux, Nodemailer,
