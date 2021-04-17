@@ -21,8 +21,8 @@
 #### React, JavaScript, Node.js, Express, PostgreSQL
 <ul>
   <li>Story Squad turns “reluctant readers” into authors and illustrators through a collaborative world-building game.</li>
-  <li>Frontend Repo: https://github.com/Lambda-School-Labs/story-squad-fe-a</li>
-  <li>Backend Repo: https://github.com/Lambda-School-Labs/story-squad-be-a</li>
+  <li>Frontend Repo: https://github.com/story-squad/js-story-squad-FE</li>
+  <li>Backend Repo: https://github.com/story-squad/js-story-squad-BE</li>
 </ul>
 
 ## Other recent projects:
