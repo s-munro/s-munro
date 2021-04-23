@@ -15,6 +15,7 @@
 #### React, TypeScript, SASS, Node.js, Express, MongoDB, Redis, Websockets (Socket.io)
 <ul>
   <li>Vibey is a social-media-like platform for hosting or discovering music in group settings, where users can join up and listen to music together.</li>
+  <li>Repository will be made public as it comes closer to production</li>
 </ul>
 
 ### :book: Story Squad: :book: ###
