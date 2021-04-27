@@ -6,7 +6,7 @@
 <ul>
   <li>:house_with_garden: Currently based out of Bloomington, IN</li>
   <li>:classical_building: Indiana University & Lambda School alumnus</li>
-  <li>:memo: Currently working on: Vibey (Private Repo)</li>
+  <li>:memo: Currently working on: Vibey (Private Repo) and on the Gumroad web app</li>
 </ul>
 
 ## About my current projects:
