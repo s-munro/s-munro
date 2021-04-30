@@ -1,5 +1,6 @@
 # Sam Munro
 ## 👋 Welcome to my Github!
+
 <p>
   My name is Sam Munro :grin:, I'm an Indiana University alumnus, a current Technical Project Lead at Lambda School, and a lover of all things software engineering :computer:  I love coding even in my free time and generally have a few side projects I'm working on.  Feel free to keep reading for more information on my current projects! 
 </p>
