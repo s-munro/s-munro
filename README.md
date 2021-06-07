@@ -29,7 +29,7 @@
 
 ## Other recent projects:
 
-### :pencil2: Gumroad (current): :pencil2: ###
+### :pencil2: Gumroad: :pencil2: ###
 #### React, FlightJS, TypeScript, SASS, Ruby on Rails, ActiveRecord
 <ul>
   <li>Gumroad is an online platform that facilitates the sale of products by creators directly to consumers, making selling as easy as selling on social media.</li>
