@@ -12,12 +12,6 @@
 
 ## About my current projects:
 
-### :pencil2: Gumroad (current): :pencil2: ###
-#### React, FlightJS, TypeScript, SASS, Ruby on Rails, ActiveRecord
-<ul>
-  <li>Gumroad is an online platform that facilitates the sale of products by creators directly to consumers, making selling as easy as selling on social media.</li>
-</ul>
-
 ### :musical_note: Vibey (on hold): :musical_note: ###
 #### React, TypeScript, SASS, Node.js, Express, MongoDB, Redis, Websockets (Socket.io)
 <ul>
@@ -34,6 +28,12 @@
 </ul>
 
 ## Other recent projects:
+
+### :pencil2: Gumroad (current): :pencil2: ###
+#### React, FlightJS, TypeScript, SASS, Ruby on Rails, ActiveRecord
+<ul>
+  <li>Gumroad is an online platform that facilitates the sale of products by creators directly to consumers, making selling as easy as selling on social media.</li>
+</ul>
 
 ### :pencil: The Easy Score: :pencil: ###
 #### React, SASS, Node.js, Express, Material-UI, Bootstrap, Redux, Nodemailer,
