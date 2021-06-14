@@ -19,20 +19,20 @@
   <li>Repository will be made public as it comes closer to production</li>
 </ul>
 
-### :book: Story Squad: :book: ###
-#### React, JavaScript, Node.js, Express, PostgreSQL
-<ul>
-  <li>Story Squad turns “reluctant readers” into authors and illustrators through a collaborative world-building game.</li>
-  <li>Frontend Repo: https://github.com/story-squad/js-story-squad-FE</li>
-  <li>Backend Repo: https://github.com/story-squad/js-story-squad-BE</li>
-</ul>
-
 ## Other recent projects:
 
 ### :pencil2: Gumroad: :pencil2: ###
 #### React, FlightJS, TypeScript, SASS, Ruby on Rails, ActiveRecord
 <ul>
   <li>Gumroad is an online platform that facilitates the sale of products by creators directly to consumers, making selling as easy as selling on social media.</li>
+</ul>
+
+### :book: Story Squad: :book: ###
+#### React, JavaScript, Node.js, Express, PostgreSQL
+<ul>
+  <li>Story Squad turns “reluctant readers” into authors and illustrators through a collaborative world-building game.</li>
+  <li>Frontend Repo: https://github.com/story-squad/js-story-squad-FE</li>
+  <li>Backend Repo: https://github.com/story-squad/js-story-squad-BE</li>
 </ul>
 
 ### :pencil: The Easy Score: :pencil: ###
