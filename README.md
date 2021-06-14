@@ -12,7 +12,7 @@
 
 ## About my current projects:
 
-### :musical_note: Vibey (on hold): :musical_note: ###
+### :musical_note: Vibey: :musical_note: ###
 #### React, TypeScript, SASS, Node.js, Express, MongoDB, Redis, Websockets (Socket.io)
 <ul>
   <li>Vibey is a social-media-like platform for hosting or discovering music in group settings, where users can join up and listen to music together.</li>
