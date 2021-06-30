@@ -3,7 +3,8 @@
 
 <p>
   My name is Sam Munro :grin: <br />
-  I'm an Indiana University alumnus, a previous Technical Project Lead at Lambda School, and a lover of all things software engineering :computer:  I love coding and generally have a few side projects I'm working on.
+  I'm an Indiana University alumnus, a previous Technical Project Lead at Lambda School, and a lover of all things software engineering :computer:  <br />
+  I love coding and generally have a few side projects I'm working on.
 </p>
 <ul>
   <li>:house_with_garden: Currently based out of Bloomington, IN</li>
