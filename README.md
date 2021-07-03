@@ -29,14 +29,6 @@
   <li>Gumroad is an online platform that facilitates the sale of products by creators directly to consumers, making selling as easy as selling on social media.</li>
 </ul>
 
-### :book: Story Squad: :book: ###
-#### React, JavaScript, Node.js, Express, PostgreSQL
-<ul>
-  <li>Story Squad turns “reluctant readers” into authors and illustrators through a collaborative world-building game.</li>
-  <li>Frontend Repo: https://github.com/story-squad/js-story-squad-FE</li>
-  <li>Backend Repo: https://github.com/story-squad/js-story-squad-BE</li>
-</ul>
-
 ### :pencil: The Easy Score: :pencil: ###
 #### React, SASS, Node.js, Express, Material-UI, Bootstrap, Redux, Nodemailer,
 <ul>
