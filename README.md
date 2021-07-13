@@ -25,7 +25,7 @@
 ### :pencil2: Gumroad: :pencil2: ###
 #### React, FlightJS, TypeScript, SASS, Ruby on Rails, ActiveRecord
 <ul>
-  <li>[Gumroad](https://gumroad.com/) is an online platform that facilitates the sale of products by creators directly to consumers, making selling as easy as selling on social media.</li>
+  <li>[GitHub](http://github.com) is an online platform that facilitates the sale of products by creators directly to consumers, making selling as easy as selling on social media.</li>
 </ul>
 
 ### :pencil: The Easy Score: :pencil: ###
