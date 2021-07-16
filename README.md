@@ -1,5 +1,5 @@
 # Sam Munro
-## 👋 Welcome to my Github!
+## 👋 Welcome to my Github
 
 <p>
   I'm an Indiana University alumnus, a previous Technical Project Lead at Lambda School, and a lover of software engineering :computer:  <br />
