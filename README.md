@@ -20,7 +20,7 @@
   <li>Repository will be made public as it comes closer to production</li>
 </ul>
 
-## Other recent projects:
+## Other recent work:
 
 ### :pencil2: Gumroad: :pencil2: ###
 #### React, FlightJS, TypeScript, SASS, Ruby on Rails, ActiveRecord
