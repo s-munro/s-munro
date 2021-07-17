@@ -16,7 +16,7 @@
 ### :musical_note: Vibey: :musical_note: ###
 #### React, TypeScript, SASS, Node.js, Express, MongoDB, Redis, Websockets (Socket.io)
 <ul>
-  <li>Vibey is a platform for hosting or discovering music in group settings, where users can join up and listen to music together.</li>
+  <li>Vibey is a platform for hosting or discovering music in group settings, where users can join up and listen to music together in real-time.</li>
   <li>Repository will be made public as it comes closer to production</li>
 </ul>
 
