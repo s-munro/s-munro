@@ -2,11 +2,11 @@
 ## 👋 Welcome to my Github
 
 <p>
-  I'm an Indiana University alumnus, a previous Technical Project Lead at Lambda School, and a lover of software engineering :computer:  <br />
+  Indiana University alumnus, previous Technical Project Lead at Lambda School, software engineer at Bloomberg :computer:  <br />
   I love coding and generally have a few side projects I'm working on.
 </p>
 <ul>
-  <li>:house_with_garden: Currently based out of Bloomington, IN</li>
+  <li>:house_with_garden: Currently based out of New York, NY</li>
   <li>:classical_building: Indiana University & Lambda School alumnus</li>
   <li>:memo: Currently working on: Vibey (Private Repo)</li>
 </ul>
