@@ -2,7 +2,7 @@
 ## 👋 Welcome to my Github
 
 <p>
-  Indiana University alumnus, previous Technical Project Lead at Lambda School, software engineer at Bloomberg :computer:  <br />
+  Software engineer at Bloomberg :computer:<br />
   I love coding and generally have a few side projects I'm working on.
 </p>
 <ul>
