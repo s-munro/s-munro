@@ -11,15 +11,13 @@
   <li>:memo: Currently working on: Vibey (Private Repo)</li>
 </ul>
 
-## About my current projects:
+## Recent work:
 
 ### :musical_note: Vibey: :musical_note: ###
 #### React, TypeScript, SASS, Node.js, Express, MongoDB, Redis, Websockets (Socket.io)
 <ul>
   <li>Vibey is a platform for hosting or discovering music in group settings, where users can join up and listen to music together in real-time. (>Repository will be made public as it comes closer to production)</li>
 </ul>
-
-## Other recent work:
 
 ### :pencil2: Gumroad: :pencil2: ###
 #### React, FlightJS, TypeScript, SASS, Ruby on Rails, ActiveRecord
