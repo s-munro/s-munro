@@ -10,26 +10,6 @@
   <li>:classical_building: Indiana University & Lambda School alumnus</li>
   <li>:memo: Currently working on: Vibey (Private Repo)</li>
 </ul>
-
-## Recent work:
-
-### :musical_note: Vibey: :musical_note: ###
-#### React, TypeScript, SASS, Node.js, Express, MongoDB, Redis, Websockets (Socket.io)
-<ul>
-  <li>Vibey is a platform for hosting or discovering music in group settings, where users can join up and listen to music together in real-time. (>Repository will be made public as it comes closer to production)</li>
-</ul>
-
-### :pencil2: Gumroad: :pencil2: ###
-#### React, FlightJS, TypeScript, SASS, Ruby on Rails, ActiveRecord
-<ul>
-  <li>Gumroad (https://gumroad.com) is an online platform that facilitates the sale of products by creators directly to consumers, making selling as easy as selling on social media.</li>
-</ul>
-
-### :pencil: The Easy Score: :pencil: ###
-#### React, SASS, Node.js, Express, Material-UI, Bootstrap, Redux, Nodemailer,
-<ul>
-  <li>A student-oriented web application intended as a course-planning resource. Offers students the ability to quickly and easily compare courses, professors, and grade distributions, as well as to search for which courses satisfy their target requirements (credit hours, time of day, credit types, etc).</li>
- </ul>
   
   <summary>:zap: Github Stats:</summary>
   <br />
