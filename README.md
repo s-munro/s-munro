@@ -1,14 +1,11 @@
 # Sam Munro
-## 👋 Welcome to my Github
 
 <p>
-  Software engineer at Bloomberg :computer:<br />
   I love coding and generally have a few side projects I'm working on.
 </p>
 <ul>
   <li>:house_with_garden: Currently based out of New York, NY</li>
   <li>:classical_building: Indiana University & Lambda School alumnus</li>
-  <li>:memo: Currently working on: Vibey (Private Repo)</li>
 </ul>
   
   <summary>:zap: Github Stats:</summary>
